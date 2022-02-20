@@ -8,3 +8,5 @@ On 16 Feb 2022, @deadsophism [posted to Instagram](https://www.instagram.com/p/C
 
 After much simplifying, this is the closest I got to an analytical solution:
 
+<img src="./closest-analytical-solution.png" alt="Closest Analytical Solution" />
+
