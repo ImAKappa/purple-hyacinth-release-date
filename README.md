@@ -10,3 +10,5 @@ After much simplifying, this is the closest I got to an analytical solution:
 
 <img src="./closest-analytical-solution.png" alt="Closest Analytical Solution" />
 
+I got stuck on how to evaluate the series in the imaginary part ¯\_(ツ)_/¯ 
+
